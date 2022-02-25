@@ -9,7 +9,3 @@ main() {
 	sorting();
 	sumoftwo();
 }
-
-
-
-
